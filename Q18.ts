@@ -1,0 +1,12 @@
+let dream_places=['Makkah',`Iraq`,`Switzerland`,`Australia`,`Palestine`]
+console.log(`Array in original order`,dream_places)
+let sorted_list=dream_places.slice().sort()
+console.log(`Array in alphabetical order:`,sorted_list)
+console.log(`Checking original order:`,dream_places)
+let reverse_sorted_list=sorted_list.reverse()
+console.log(`Array in reverse alphabetical order:`,reverse_sorted_list)
+console.log(`Checking original order:`,dream_places)
+console.log(`Orginal array in reverse order:` ,dream_places.reverse())
+console.log(`Array back in its orginal order:`,dream_places.reverse())
+console.log(`Orginal array in alphabetical order:`,dream_places.sort())
+console.log(`Original array in reverse alphabetical order:`,dream_places.reverse())

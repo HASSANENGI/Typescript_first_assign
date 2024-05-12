@@ -1,0 +1,2 @@
+# Typescript_getting_started_exercises
+ First_assign
